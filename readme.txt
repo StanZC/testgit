@@ -15,6 +15,4 @@
 Mergess\
 Cccccccc\
 Hhhhhhh\
-Aaaaaaa\
-\
-}
+Aaaaaaa}
