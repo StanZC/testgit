@@ -16,4 +16,9 @@ merge\
 Mergess\
 Cccccccc\
 Hhhhhhh\
+<<<<<<< HEAD
+=======
+Aaaaaaa
+wwwwwwwwwwwww
+>>>>>>> dev
 }
